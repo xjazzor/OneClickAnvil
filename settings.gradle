@@ -4,6 +4,6 @@ pluginManagement {
         gradlePluginPortal()
     }
     plugins {
-        id 'net.fabricmc.forge' version '1.15-SNAPSHOT'
+        id 'fabric-loom' version '1.15-SNAPSHOT'
     }
 }
