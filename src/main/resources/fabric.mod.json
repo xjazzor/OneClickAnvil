@@ -27,12 +27,12 @@
     "one-click-anvil.mixins.json"
   ],
   "depends": {
-    "fabricloader": ">=0.15.7",
+    "fabricloader": ">=0.18.1",
     "fabric-key-binding-api-v1": "*",
-    "yet_another_config_lib_v3": ">=3.7.1+1.21.6-fabric"
+    "yet_another_config_lib_v3": ">=3.8.0"
   },
   "recommends": {
-    "minecraft": ">=1.21.6"
+    "minecraft": ">=1.21.11"
   },
   "accessWidener": "oneclickanvil.accesswidener",
   "custom": {
